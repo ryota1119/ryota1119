@@ -44,3 +44,11 @@ Here are some ideas to get you started:
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1119&theme=vue-dark&layout=compact" />
 </div>
 
+## 🚧 Currently Working On
+
+<a href="https://github.com/ryota1119/time_report_webapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryota1119&repo=time_report_webapi&theme=vue-dark" />
+</a>
+<a href="https://github.com/ryota1119/time-report-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryota1119&repo=time-report-frontend&theme=vue-dark" />
+</a>
