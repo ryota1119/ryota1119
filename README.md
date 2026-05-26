@@ -1,54 +1,57 @@
-<!--
-**ryota1119/ryota1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ryota1119&fontSize=60&fontColor=fff&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Go%20%7C%20AI%20Automation&descAlignY=58&descAlign=50&animation=twinkling" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ryota1119" />
+  <img src="https://komarev.com/ghpvc/?username=ryota1119&color=blueviolet&style=flat-square" />
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Backend+Engineer+%F0%9F%9A%80;Go+%2F+PHP+%2F+Ruby+on+Rails;Automating+workflows+with+Claude+%F0%9F%A4%96;Always+learning+something+new..." />
+</p>
 
-<!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-<!-- - 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
 <br>
 
+- 🧑‍💻 Backend engineer — Go / PHP (Laravel) / Ruby on Rails
+- 🤖 Working in a DX team — automating internal workflows with Claude Code and LLMs
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
-<!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&i=go,php,laravel,ruby,rails,html,css,sass,tailwind,js,vue,docker,aws,linux" />
 <br>
 
+## 🛠 Tech Stack
 
-<!-- 4. GitHub usernameを変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-## 🏃‍♀️ Activities
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ryota1119&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1119&theme=vue-dark&layout=compact" />
+**Backend**
+<img src="https://skillicons.dev/icons?theme=dark&i=go,php,laravel,ruby,rails" />
+
+**Frontend**
+<img src="https://skillicons.dev/icons?theme=dark&i=html,css,sass,tailwind,js,vue" />
+
+**Infra / Tools**
+<img src="https://skillicons.dev/icons?theme=dark&i=docker,aws,linux" />
+
+**AI Tools**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+<br>
+
+## 📊 Stats
+
+<div align="center">
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryota1119&theme=vue-dark&hide_border=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1119&theme=vue-dark&layout=compact&hide_border=true" />
 </div>
 
-## 🚧 Currently Working On
+<br>
 
-<a href="https://github.com/ryota1119/time_report_webapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryota1119&repo=time_report_webapi&theme=vue-dark" />
-</a>
-<a href="https://github.com/ryota1119/time-report-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ryota1119&repo=time-report-frontend&theme=vue-dark" />
-</a>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ryota1119&theme=react-dark&hide_border=true" />
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryota1119/ryota1119/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryota1119/ryota1119/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryota1119/ryota1119/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+</content>
