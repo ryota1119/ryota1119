@@ -35,8 +35,7 @@
 ## 📊 Stats
 
 <div align="center">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=ryota1119&theme=vue-dark&hide_border=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryota1119&theme=vue-dark&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=ryota1119&theme=vue-dark&hide_border=true" />
 </div>
 
 <br>
@@ -54,4 +53,3 @@
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-</content>
