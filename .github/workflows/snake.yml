@@ -27,4 +27,4 @@ jobs:
           publish_branch: output
           publish_dir: dist
           force_orphan: true
-</content>
+
